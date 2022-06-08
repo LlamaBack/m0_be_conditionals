@@ -35,9 +35,16 @@ end
 
 # Questions
 # 1. In English, using technical vocabulary, describe what is happening between lines 12 and 16.
+#   Conditonal statement determining if bear_clothing will be assigned hat or scarf
 # 2. What variable has a new value assigned to it after the first if statement executes?
+#   bear_clothing
 # 3. If you changed the variable door_choice to equal 3, what would the bear_clothing value be?
+#   "scarf"
 # 4. In English, using technical vocabulary, describe what is happening between lines lines 25 and 33.
+#   Conditional statement having differnt strings based on the value of bear_choice
 # 5. If you changed the variable bear_choice to equal 3, what will be the final outcome be?
+#   "You run as fast as you can into the next room. It's full of snakes!"
 # 6. If you changed the variable door_choice to equal 1, and the variable bear_choice to equal 2, what will be the final outcome be?
+#   "You tell the bear the hat is too small and it starts to cry!"
 # 7. What is your favorite ending?
+#   "You stay with the bear and become it's best friend!"
